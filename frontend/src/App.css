@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+.divtag{
+    text-align: center;
+    color: brown;
+    background-color: whitesmoke;
+    font-family: "Kablammo", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+
